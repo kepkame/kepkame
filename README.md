@@ -1,4 +1,4 @@
-## Hi, I'm Andrey!
+## Hi, I'm Andrey
 
 I am a Frontend Developer. I work with **React**/**TypeScript**, using **Redux Toolkit** and a **feature-first** architecture.
 
